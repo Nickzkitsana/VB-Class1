@@ -1,0 +1,12 @@
+D:\58121039-0\MyFirstWindows\MyFirstWindows\bin\Debug\MyFirstWindows.exe.config
+D:\58121039-0\MyFirstWindows\MyFirstWindows\bin\Debug\MyFirstWindows.exe
+D:\58121039-0\MyFirstWindows\MyFirstWindows\bin\Debug\MyFirstWindows.pdb
+D:\58121039-0\MyFirstWindows\MyFirstWindows\bin\Debug\MyFirstWindows.xml
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.vbprojResolveAssemblyReference.cache
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.Form1.resources
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.Resources.resources
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.vbproj.GenerateResource.cache
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.vbproj.CoreCompileInputs.cache
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.exe
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.xml
+D:\58121039-0\MyFirstWindows\MyFirstWindows\obj\Debug\MyFirstWindows.pdb

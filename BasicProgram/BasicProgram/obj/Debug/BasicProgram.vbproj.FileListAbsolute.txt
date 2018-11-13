@@ -1,0 +1,11 @@
+D:\58121039-0\BasicProgram\BasicProgram\bin\Debug\BasicProgram.exe.config
+D:\58121039-0\BasicProgram\BasicProgram\bin\Debug\BasicProgram.exe
+D:\58121039-0\BasicProgram\BasicProgram\bin\Debug\BasicProgram.pdb
+D:\58121039-0\BasicProgram\BasicProgram\bin\Debug\BasicProgram.xml
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.Form1.resources
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.Resources.resources
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.vbproj.GenerateResource.cache
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.vbproj.CoreCompileInputs.cache
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.exe
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.xml
+D:\58121039-0\BasicProgram\BasicProgram\obj\Debug\BasicProgram.pdb

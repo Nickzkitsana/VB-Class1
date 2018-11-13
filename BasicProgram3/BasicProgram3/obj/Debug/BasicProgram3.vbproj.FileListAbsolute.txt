@@ -1,0 +1,12 @@
+D:\58121039-0\BasicProgram3\BasicProgram3\bin\Debug\BasicProgram3.exe.config
+D:\58121039-0\BasicProgram3\BasicProgram3\bin\Debug\BasicProgram3.exe
+D:\58121039-0\BasicProgram3\BasicProgram3\bin\Debug\BasicProgram3.pdb
+D:\58121039-0\BasicProgram3\BasicProgram3\bin\Debug\BasicProgram3.xml
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.vbprojResolveAssemblyReference.cache
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.FrmVat.resources
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.Resources.resources
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.vbproj.GenerateResource.cache
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.vbproj.CoreCompileInputs.cache
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.exe
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.xml
+D:\58121039-0\BasicProgram3\BasicProgram3\obj\Debug\BasicProgram3.pdb
